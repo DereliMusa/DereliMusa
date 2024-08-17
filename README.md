@@ -49,11 +49,11 @@
 
 ## Stats
 ![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DereliMusa\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515))
-
+<!--
 ## Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DereliMusa&theme=default&hide_border=true&bg_color=151515" alt="DereliMusa's GitHub Stats" />
 
 ## Lang
 ![Musa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dereli\&layout=compact)
-
+-->
 Feel free to reach out or connect with me. I'm always open to discussing new ideas, collaborations, or just having a chat!
