@@ -44,6 +44,9 @@
 - 💬 **Ask me about:**
   - Anything related to [field of expertise], [another area of interest], or [your hobbies].-->
 
+<!--START_SECTİON:waka-->
+<!--END_SECTİON:waka-->
+
 ## Stats
   <img src="https://github-readme-stats.vercel.app/api?username=DereliMusa&theme=default&show_icons=true&hide_border=true&count_private=true" alt="DereliMusa's GitHub Stats" />
 
