@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=DereliMusae&abbreviated=true)
 
 - 🔭 **I’m currently working on:** 
   - Freelance projects in various domains.
@@ -42,5 +43,13 @@
 
 - 💬 **Ask me about:**
   - Anything related to [field of expertise], [another area of interest], or [your hobbies].-->
+
+## Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=DereliMusa&theme=default&show_icons=true&hide_border=true&count_private=true" alt="DereliMusa's GitHub Stats" />
+
+## Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DereliMusa&theme=default&hide_border=true" alt="DereliMusa's GitHub Stats" />
+## Lang
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DereliMusa&theme=default&show_icons=true&hide_border=true&layout=compact" alt="DereliMusa's GitHub Stats" />
 
 Feel free to reach out or connect with me. I'm always open to discussing new ideas, collaborations, or just having a chat!
