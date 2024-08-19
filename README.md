@@ -17,7 +17,7 @@
   - **Programming Languages:** Python, JavaScript, Java, C, C#, R etc.
   - **Databases:** MongoDB, PostgreSQL, MySQL, Cassandra, Redis etc.
   - **Frameworks:** TensorFlow, Keras, React, Flask, NextJS etc.
-  - **Tools:** Git, Docker, Vim, Postman, Jira, Figma and some AWS services etc.
+  - **Tools:** Git, Docker, Vim, Postman, Jira, Figma and AWS services etc.
 
 <!--- 📈 **Projects I’m proud of:**
   - **[Project Name](link):** Brief description of the project and what technologies were used.
